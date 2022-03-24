@@ -9,4 +9,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution](https://ovictorassis.github.io/qr-code-challenge/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-solution-Bktz_uczq)
+- Link: [QR Code](https://ovictorassis.github.io/qr-code-challenge/)
